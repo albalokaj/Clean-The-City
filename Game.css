@@ -1,0 +1,170 @@
+body {
+    background-image: url('Images/b12.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* trash part style */
+.div1 {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+/* trash cans style */
+#div2 {
+    margin-left: 170px;
+    display: flex;
+}
+
+/* under trash cans text style */
+#div2 span {
+    font-weight: 900;
+    color: white;
+    padding: 5px 30px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+/* blue trash can style */
+#blueTrash {
+    margin-right: 100px;
+    margin-bottom: 7px;
+}
+
+/* red trash can style */
+#redTrash {
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+/* yellow trash can style */
+#yellowTrash {
+    margin-left: 55px;
+    margin-bottom: 9px;
+}
+
+/* bottle style */
+.glass1 {
+    margin-top: 10px;
+    margin-left: 20px;
+    cursor: grab;
+}
+
+/* paper style */
+.paper {
+    margin-top: 45px;
+    margin-left: 20px;
+    cursor: grab;
+}
+
+/* input style */
+input {
+    border: 0;
+    padding: 5px 40px;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+    background: #9dc183;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+input:hover{
+    cursor: pointer;
+}
+
+/* the score part style */
+#div3 span {
+    margin-top: 10px;
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 800;
+    background: #9dc183;
+    text-transform: uppercase;
+}
+    
+/*zoom trash images*/
+#d1:hover {
+    -ms-transform: scale(1.5);
+    /* IE*/
+    -webkit-transform: scale(1.1);
+    /* Safari*/
+    transform: scale(1.1);
+}
+
+#d2:hover {
+    -ms-transform: scale(1.1);
+    /* IE */
+    -webkit-transform: scale(1.1);
+    /* Safari */
+    transform: scale(1.1);
+}
+
+#d3:hover {
+    -ms-transform: scale(1.1);
+    /* IE */
+    -webkit-transform: scale(1.1);
+    /* Safari */
+    transform: scale(1.1);
+}
+
+#d4:hover {
+    -ms-transform: scale(1.1);
+    /* IE */
+    -webkit-transform: scale(1.1);
+    /* Safari */
+    transform: scale(1.1);
+}
+
+#d5:hover {
+    -ms-transform: scale(1.1);
+    /* IE */
+    -webkit-transform: scale(1.1);
+    /* Safari */
+    transform: scale(1.1);
+}
+
+#d6:hover {
+    -ms-transform: scale(1.1);
+    /* IE */
+    -webkit-transform: scale(1.1);
+    /* Safari */
+    transform: scale(1.1);
+}
+
+#d7:hover {
+    -ms-transform: scale(1.1);
+    /* IE*/
+    -webkit-transform: scale(1.1);
+    /* Safari*/
+    transform: scale(1.1);
+}
+
+#d8:hover {
+    -ms-transform: scale(1.1);
+    /* IE */
+    -webkit-transform: scale(1.1);
+    /* Safari */
+    transform: scale(1.1);
+}
+
+#d9:hover {
+    -ms-transform: scale(1.1);
+    /* IE */
+    -webkit-transform: scale(1.1);
+    /* Safari */
+    transform: scale(1.1);
+}
+
+#d10:hover {
+    -ms-transform: scale(1.1);
+    /* IE */
+    -webkit-transform: scale(1.1);
+    /* Safari */
+    transform: scale(1.1);
+}
